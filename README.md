@@ -17,10 +17,10 @@
 | Statistic | Badge |
 |-----------|-------|
 | **Profile Views** | <img src="https://komarev.com/ghpvc/?username=JawadTechXD&label=Profile+Views&color=9D00FF&style=flat-square"> |
-| **Last Update** | <img src="https://img.shields.io/github/last-commit/JawadTechXD/KHAN-MD?color=9D00FF&label=Last+Update&style=flat-square"> |
-| **Repo Size** | <img src="https://img.shields.io/github/repo-size/JawadTechXD/KHAN-MD?color=9D00FF&label=Repo+Size&style=flat-square"> |
-| **Stars** | <img src="https://img.shields.io/github/stars/JawadTechXD/KHAN-MD?color=9D00FF&label=Stars&style=flat-square"> |
-| **Forks** | <img src="https://img.shields.io/github/forks/JawadTechXD/KHAN-MD?color=9D00FF&label=Forks&style=flat-square"> |
+| **Last Update** | <img src="https://img.shields.io/github/last-commit/JawadTechXD/KHAN-XMD?color=9D00FF&label=Last+Update&style=flat-square"> |
+| **Repo Size** | <img src="https://img.shields.io/github/repo-size/JawadTechXD/KHAN-XMD?color=9D00FF&label=Repo+Size&style=flat-square"> |
+| **Stars** | <img src="https://img.shields.io/github/stars/JawadTechXD/KHAN-XMD?color=9D00FF&label=Stars&style=flat-square"> |
+| **Forks** | <img src="https://img.shields.io/github/forks/JawadTechXD/KHAN-XMD?color=9D00FF&label=Forks&style=flat-square"> |
 | **Visitors** | <img src="https://visitor-badge.laobi.icu/badge?page_id=JawadTechXD.KHAN-MD&style=flat-square&color=9D00FF"> | 
 | **Maintained** | <img src="https://img.shields.io/badge/Maintained-Yes-00C853?style=flat-square"> |
 | **Version** | <img src="https://img.shields.io/badge/Version-1.0.0-0D47A1?style=flat-square"> |
@@ -52,10 +52,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
 ## 🛰️ Deployment Steps
@@ -64,7 +64,7 @@
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below</p>
-  <a href='https://github.com/JawadTechXD/KHAN-MD/fork' target="_blank">
+  <a href='https://github.com/JawadTechXD/KHAN-XMD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -90,7 +90,7 @@
 
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -98,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 
@@ -114,11 +114,11 @@
     </tr>
     <tr>
       <td>Heroku</td>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-MD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-XMD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
     </tr>
     <tr>
       <td>Koyeb</td>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/KHAN-MD&ports=3000"><img src="https://img.shields.io/badge/Deploy_to-Koyeb-121212?style=for-the-badge&logo=koyeb"></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/KHAN-XMD&ports=3000"><img src="https://img.shields.io/badge/Deploy_to-Koyeb-121212?style=for-the-badge&logo=koyeb"></a></td>
     </tr>
     <tr>
       <td>Railway</td>
@@ -151,7 +151,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
 ## 🪀  SUPPORT CHANNEL
@@ -163,7 +163,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 ## ⚠️ WARNING !
@@ -188,7 +188,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ## 👑 KHAN STATUS
@@ -200,7 +200,7 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/JawadTechXD/KHAN-XMD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
   <h3> Thank you for visiting ❤️ </h3>
